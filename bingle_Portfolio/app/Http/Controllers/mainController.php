@@ -8,7 +8,7 @@ class mainController extends Controller
 {
     public function index()
     {
-    return view('frontend.Portfolio');
+    return view('bingle.Portfolio');
     }
 
 }
